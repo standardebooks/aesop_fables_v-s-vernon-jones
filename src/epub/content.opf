@@ -64,10 +64,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#introduction">https://id.loc.gov/authorities/names/n79021157</meta>
 		<meta property="display-seq" refines="#introduction">1</meta>
 		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Frans Snyders</dc:contributor>
+		<meta property="file-as" refines="#artist">Snyders, Frans</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frans_Snyders</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n91006941</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
