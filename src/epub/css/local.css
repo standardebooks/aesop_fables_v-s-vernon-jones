@@ -5,9 +5,14 @@ abbr.name{
 	white-space: nowrap;
 }
 
+article{
+	page-break-after: always;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
+	padding-left: 25%;
 }
 
 .signature{
