@@ -5,6 +5,10 @@ abbr.name{
 	white-space: nowrap;
 }
 
+abbr.era{
+	font-variant: all-small-caps;
+}
+
 article{
 	page-break-after: always;
 }
