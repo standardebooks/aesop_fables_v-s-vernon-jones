@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-07-22T20:25:10Z</dc:date>
+		<meta property="dcterms:modified">2018-07-22T20:25:10Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,15 +36,15 @@
 		<dc:description id="description">Aesop’s classic Fables of behaviour and consequence.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Whether it’s the benefits of taking it slow and steady (&lt;i&gt;The Tortoise and the Hare&lt;/i&gt;), the necessity of invention (&lt;i&gt;The Crow and the Pitcher&lt;/i&gt;), or the problems of cognitive dissonance (&lt;i&gt;The Fox and the Grapes&lt;/i&gt;), Aesop has a fable for every occasion. Aesop lived in Greece in the 6th century &lt;abbr&gt;BCE&lt;/abbr&gt;, far enough in the past that it’s become impossible to ascribe all these fables to him. Some were certainly retellings of older myths, some share their roots in collections of fables from India and further afield, and many were added well after his time. However, they all share a certain quality of prose that marks them out as belonging to the collection regardless of authorship. It’s that quality, combined with their insight into the human character, that has meant that they’ve stood the test of time for twenty-five centuries.&lt;/p&gt;
-			&lt;p&gt;This collection is the 1912 translation by &lt;abbr&gt;V. S.&lt;/abbr&gt; Vernon Jones, and comprises of two hundred and eighty-four of the fables.&lt;/p&gt;
+			&lt;p&gt;Whether it’s the benefits of taking it slow and steady (“The Tortoise and the Hare”), the necessity of invention (“The Crow and the Pitcher”), or the problems of cognitive dissonance (“The Fox and the Grapes”), Aesop has a fable for every occasion. Aesop lived in Greece in the 6th century BCE, far enough in the past that it’s become impossible to ascribe all these fables to him. Some were certainly retellings of older myths, some share their roots in collections of fables from India and further afield, and many were added well after his time. However, they all share a certain quality of prose that marks them out as belonging to the collection regardless of authorship. It’s that quality, combined with their insight into the human character, that has meant that they’ve stood the test of time for twenty-five centuries.&lt;/p&gt;
+			&lt;p&gt;This collection is the 1912 translation by V. S. Vernon Jones, and is comprised of two hundred and eighty-four of the fables.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11339</dc:source>
 		<dc:source>https://archive.org/details/aesopfables00aesoiala</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">39974</meta>
+		<meta property="se:reading-ease.flesch">71.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aesop%27s_Fables</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aesop_fables_v-s-vernon-jones</meta>
 		<dc:creator id="author">Aesop</dc:creator>
@@ -53,9 +53,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81066350</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">V. S. Vernon Jones</dc:contributor>
-		<meta property="file-as" refines="#translator">TRANSLATORSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">TRANSLATORWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">TRANSLATORNACOAFLINK</meta>
+		<meta property="file-as" refines="#translator">Jones, V. S. Vernon</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr96034604</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="introduction">G. K. Chesterton</dc:contributor>
@@ -88,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
