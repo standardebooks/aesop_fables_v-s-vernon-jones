@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
 abbr.era{
 	font-variant: all-small-caps;
 }
@@ -23,13 +19,14 @@ footer{
 }
 
 article footer{
+	margin-top: 0;
 	text-align: center;
 }
 
 article footer p{
 	display: inline-block;
 	font-style: italic;
-	margin: 0 auto 3em auto;
+	margin-top: 1em;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
