@@ -26,19 +26,18 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Fables</dc:title>
 		<meta property="file-as" refines="#title">Fables</meta>
 		<dc:subject id="subject-1">Fables, Greek -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/11339</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008103462</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">Aesop’s classic Fables of behaviour and consequence.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Whether it’s the benefits of taking it slow and steady (“The Tortoise and the Hare”), the necessity of invention (“The Crow and the Pitcher”), or the problems of cognitive dissonance (“The Fox and the Grapes”), Aesop has a fable for every occasion. Aesop lived in Greece in the 6th century BCE, far enough in the past that it’s become impossible to ascribe all these fables to him. Some were certainly retellings of older myths, some share their roots in collections of fables from India and further afield, and many were added well after his time. However, they all share a certain quality of prose that marks them out as belonging to the collection regardless of authorship. It’s that quality, combined with their insight into the human character, that has meant that they’ve stood the test of time for twenty-five centuries.&lt;/p&gt;
 			&lt;p&gt;This collection is the 1912 translation by V. S. Vernon Jones, and is comprised of two hundred and eighty-four of the fables.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11339</dc:source>
 		<dc:source>https://archive.org/details/aesopfables00aesoiala</dc:source>
