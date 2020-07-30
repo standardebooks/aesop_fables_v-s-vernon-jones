@@ -6,7 +6,7 @@ abbr.era{
 }
 
 article{
-	page-break-after: always;
+	break-after: page;
 }
 
 footer{
