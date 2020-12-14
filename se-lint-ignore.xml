@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="fables.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footers use a unique styling in this book.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
