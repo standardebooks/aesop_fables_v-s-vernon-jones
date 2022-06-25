@@ -32,6 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008103462</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Aesop’s classic Fables of behaviour and consequence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Whether it’s the benefits of taking it slow and steady (“The Tortoise and the Hare”), the necessity of invention (“The Crow and the Pitcher”), or the problems of cognitive dissonance (“The Fox and the Grapes”), &lt;a href="https://standardebooks.org/ebooks/aesop"&gt;Aesop&lt;/a&gt; has a fable for every occasion. Aesop lived in Greece in the 6th century BCE, far enough in the past that it’s become impossible to ascribe all these fables to him. Some were certainly retellings of older myths, some share their roots in collections of fables from India and further afield, and many were added well after his time. However, they all share a certain quality of prose that marks them out as belonging to the collection regardless of authorship. It’s that quality, combined with their insight into the human character, that has meant that they’ve stood the test of time for twenty-five centuries.&lt;/p&gt;
