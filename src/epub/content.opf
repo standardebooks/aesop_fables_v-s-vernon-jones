@@ -41,7 +41,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11339</dc:source>
 		<dc:source>https://archive.org/details/aesopfables00aesoiala</dc:source>
-		<meta property="se:word-count">39974</meta>
+		<meta property="se:word-count">39975</meta>
 		<meta property="se:reading-ease.flesch">71.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Aesop%27s_Fables</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aesop_fables_v-s-vernon-jones</meta>
