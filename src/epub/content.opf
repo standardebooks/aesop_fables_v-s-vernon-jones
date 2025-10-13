@@ -59,7 +59,7 @@
 		<meta property="file-as" refines="#introduction">Chesterton, G. K.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#introduction">https://en.wikipedia.org/wiki/G._K._Chesterton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#introduction">http://id.loc.gov/authorities/names/n79021157</meta>
-		<meta property="role" refines="#introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Frans Snyders</dc:contributor>
 		<meta property="file-as" refines="#artist">Snyders, Frans</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frans_Snyders</meta>
