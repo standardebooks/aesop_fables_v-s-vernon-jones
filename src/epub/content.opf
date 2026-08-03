@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/aesop/fables/v-s-vernon-jones</dc:identifier>
 		<dc:date>2018-07-22T20:25:10Z</dc:date>
@@ -35,11 +35,11 @@
 		<meta property="term" refines="#subject-1">sh2008103462</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">Aesop’s classic Fables of behavior and consequence.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Aesop’s classic Fables of behavior and consequence.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Whether it’s the benefits of taking it slow and steady (“The Tortoise and the Hare”), the necessity of invention (“The Crow and the Pitcher”), or the problems of cognitive dissonance (“The Fox and the Grapes”), &lt;a href="https://standardebooks.org/ebooks/aesop"&gt;Aesop&lt;/a&gt; has a fable for every occasion. Aesop lived in Greece in the 6th century BCE, far enough in the past that it’s become impossible to ascribe all these fables to him. Some were certainly retellings of older myths, some share their roots in collections of fables from India and further afield, and many were added well after his time. However, they all share a certain quality of prose that marks them out as belonging to the collection regardless of authorship. It’s that quality, combined with their insight into the human character, that has meant that they’ve stood the test of time for twenty-five centuries.&lt;/p&gt;
 			&lt;p&gt;This collection is the 1912 translation by V. S. Vernon Jones, comprising two hundred and eighty-four of the fables.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11339</dc:source>
 		<dc:source>https://archive.org/details/aesopfables00aesoiala</dc:source>
