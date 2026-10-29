@@ -60,6 +60,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="introduction">G. K. Chesterton</dc:contributor>
 		<meta property="file-as" refines="#introduction">Chesterton, G. K.</meta>
+		<meta property="schema:alternateName" refines="#introduction">Gilbert Keith Chesterton</meta>
 		<link href="https://en.wikipedia.org/wiki/G._K._Chesterton" refines="#introduction" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79021157.html" refines="#introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
